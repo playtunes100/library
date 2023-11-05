@@ -4,3 +4,20 @@ body {
     margin: 0;
     background-color: #ececec;
 }
+
+header {
+    padding: 1rem;
+    display: flex;
+    background-color: #735b73;
+    box-shadow: 1px 1px 4px #251025;
+
+}
+
+header h2 {
+    margin: 0;
+    padding-left: 1rem;
+}
+
+#logo {
+    height: 2rem;
+}
