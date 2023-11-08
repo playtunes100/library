@@ -117,13 +117,13 @@ header > h2 {
     width: 0;
     opacity: 0;
 }
-/*
-.read-toggle span {
+
+.read {
     -webkit-transform: translateX(1.6rem);
     -ms-transform: translateX(1.6rem);
     transform: translateX(1.6rem);
   }
-  */
+  
 
 
 
